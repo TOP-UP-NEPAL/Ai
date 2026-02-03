@@ -1,0 +1,8 @@
+{
+  "name": "Mero Topup - Grand AI Sales Engine",
+  "description": "Advanced AI-driven gaming recharge hub with QR payment verification and Firebase integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
